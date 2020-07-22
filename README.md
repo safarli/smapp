@@ -1,0 +1,2 @@
+# smapp
+Store management system
